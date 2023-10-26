@@ -4,7 +4,8 @@
   "description": "## しまぶーYoutube - [https://www.youtube.com/watch?v=QimhfYHyRvU&list=PLAp6LQ7QjppSlXSaDG_rR3Bm_9I_6Jv7w&index=31]",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
   },
   "keywords": [],
   "author": "",
